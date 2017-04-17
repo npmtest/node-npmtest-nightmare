@@ -1,7 +1,7 @@
 # test coverage for  [nightmare (v2.10.0)](https://github.com/segmentio/nightmare#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-nightmare.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-nightmare) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-nightmare.svg)](https://travis-ci.org/npmtest/node-npmtest-nightmare)
 #### A high-level browser automation library.
 
-[![NPM](https://nodei.co/npm/nightmare.png?downloads=true)](https://www.npmjs.com/package/nightmare)
+[![NPM](https://nodei.co/npm/nightmare.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/nightmare)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-nightmare/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-nightmare/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-nightmare/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-nightmare/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-nightmare/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-nightmare/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-nightmare/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-nightmare/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-nightmare/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-nightmare/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-nightmare%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-nightmare/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-nightmare/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-nightmare/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-nightmare/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-nightmare%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-nightmare/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-nightmare/build/test-report.html](https://npmtest.github.io/node-npmtest-nightmare/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-nightmare/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-nightmare/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-nightmare/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-nightmare/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-nightmare/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-nightmare/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-nightmare/build/screenCapture.npmPackageListing.svg)
 
@@ -80,33 +86,26 @@
     "main": "lib/nightmare.js",
     "maintainers": [
         {
-            "name": "bdentino",
-            "email": "brian.dentino@gmail.com"
+            "name": "bdentino"
         },
         {
-            "name": "mattmueller",
-            "email": "mattmuelle@gmail.com"
+            "name": "mattmueller"
         },
         {
-            "name": "reinpk",
-            "email": "reinpk@gmail.com"
+            "name": "reinpk"
         },
         {
-            "name": "rosshinkley",
-            "email": "rosshinkley@gmail.com"
+            "name": "rosshinkley"
         },
         {
-            "name": "segment-admin",
-            "email": "tools+npm@segment.com"
+            "name": "segment-admin"
         },
         {
-            "name": "stephenmathieson",
-            "email": "me@stephenmathieson.com"
+            "name": "stephenmathieson"
         }
     ],
     "name": "nightmare",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/segmentio/nightmare.git"
