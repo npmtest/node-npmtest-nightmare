@@ -1,4 +1,7 @@
-# test coverage for  [nightmare (v2.10.0)](https://github.com/segmentio/nightmare#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-nightmare.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-nightmare) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-nightmare.svg)](https://travis-ci.org/npmtest/node-npmtest-nightmare)
+# npmtest-nightmare
+
+#### test coverage for  [nightmare (v2.10.0)](https://github.com/segmentio/nightmare#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-nightmare.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-nightmare) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-nightmare.svg)](https://travis-ci.org/npmtest/node-npmtest-nightmare)
+
 #### A high-level browser automation library.
 
 [![NPM](https://nodei.co/npm/nightmare.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/nightmare)
